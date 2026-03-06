@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Internal Memo - Assessment Dates</title>
+
+<style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background:#f4f4f4;
+    margin:0;
+    padding:20px;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:6px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.header{
+    text-align:center;
+    line-height:1.5;
+}
+
+.header h2{
+    margin:10px 0;
+}
+
+.memo-info{
+    margin-top:20px;
+}
+
+.memo-info p{
+    margin:6px 0;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin:20px 0;
+}
+
+table, th, td{
+    border:1px solid #333;
+}
+
+th, td{
+    padding:10px;
+    text-align:left;
+}
+
+th{
+    background:#eee;
+}
+
+ul{
+    margin-top:10px;
+}
+
+.footer{
+    margin-top:30px;
+}
+.foo {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #777;
+}
+
+.cc{
+    margin-top:20px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+<h3>STATE DEPARTMENT FOR TVET</h3>
+<h3>THE KERICHO NATIONAL POLYTECHNIC</h3>
+<p>P.O BOX 444-20406, SOTIK - KENYA</p>
+<p>Tel: 0742 888 444 | +254704453337</p>
+<p>Email: customercare@kerichopoly.ac.ke</p>
+<p><strong>MOTTO: SKILLS FOR GROWTH</strong></p>
+
+<h2>INTERNAL MEMO</h2>
+</div>
+
+<div class="memo-info">
+<p><strong>TO:</strong> All Trainees</p>
+<p><strong>FROM:</strong> Deputy Principal Academics</p>
+<p><strong>DATE:</strong> 06/03/2026</p>
+<p><strong>SUBJECT:</strong> Updated Assessment Dates and Training Schedule</p>
+</div>
+
+<p>
+This is to inform all trainees of the upcoming examination and assessment schedules 
+for the various examining bodies. Please take note of the specific dates applicable 
+to your category to ensure adequate preparation and timely attendance.
+</p>
+
+<table>
+<tr>
+<th>Candidate Category</th>
+<th>Assessment Start Date</th>
+<th>End Date</th>
+</tr>
+
+<tr>
+<td>KNEC Candidates</td>
+<td>13/03/2026</td>
+<td>02/04/2026</td>
+</tr>
+
+<tr>
+<td>TVET CDACC Candidates</td>
+<td>16/03/2026</td>
+<td>13/04/2026</td>
+</tr>
+
+<tr>
+<td>TKNP Modular Candidates</td>
+<td>30/03/2026</td>
+<td>15/04/2026</td>
+</tr>
+</table>
+
+<p>
+Please be advised that <strong>regular training and class attendance</strong> for TVET CDACC 
+and modular groups will continue until <strong>March 13 and March 27, 2026</strong> respectively. 
+It is mandatory for all TVET CDACC and Modular trainees to remain in session until these dates 
+to finalize on portfolios and practical requirements.
+</p>
+
+<h3>Key Requirements for Candidates</h3>
+
+<ul>
+<li><strong>Exam cards:</strong> All trainees must collect their exam cards from the Exams/Assessment office at least three days before their start date.</li>
+
+<li><strong>Fee Clearance:</strong> Only trainees that have cleared fee will be cleared to sit for the assessments.</li>
+
+<li><strong>Punctuality:</strong> Candidates must be at the examination rooms/workshops at least 30 minutes before the scheduled time.</li>
+</ul>
+
+<div class="footer">
+<p>
+We wish all our trainees success in their upcoming assessments. 
+Let us maintain high levels of integrity during this examination season.
+</p>
+
+<p><strong>Peris M. Mahugu</strong></p>
+<p>D/P Academics & Students Affairs</p>
+</div>
+
+<div class="cc">
+<strong>CC:</strong>
+<ul>
+<li>Chief Principal</li>
+<li>D/P Admin</li>
+<li>Registrar</li>
+<li>DOT</li>
+<li>M & E</li>
+<li>All admitting HODs</li>
+<li>Chebwagan Coordinator</li>
+<li>Trainees Noticeboards</li>
+</ul>
+</div>
+
+</div>
+
+  <div class="foo">
+    This memo is not to mislead or wrongly inform anyone since its a copy of an origin memo from the Academics officer. If you feel like its unofficial please contact this web admin - <a href="https://wa.me/254717988253?text=*Hello%20Derick*%20I%20need%20An%20official%20Memo">Derrick</a><br><br>
+  From Class Rep. J26 L6 - Derick
+</div>
+</body>
+</html>
