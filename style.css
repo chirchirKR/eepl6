@@ -1,0 +1,123 @@
+* {
+  box-sizing: border-box;
+      font-family: Arial, Helvetica, sans-serif;
+      scroll-behavior: smooth;
+}
+
+html {
+  background-image: ;/*'/storage/emulated/0/Android/media/com.whatsapp.w4b/WhatsApp Business/Media/WhatsApp Business Images/IMG-20260611-WA0046.jpg');*/
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: grey;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+  background: ;
+  color: #ffffff;
+}
+
+body {
+  font-size: 0.8rem;
+  backdrop-filter: blur(5px);
+}
+
+header {
+  padding: 10px;
+  justify-content: left;
+  display: flex;
+  background: linear-gradient(135deg, blueviolet, purple);
+  color: ;
+}
+
+.menu-option-icon {
+  width: 80px;
+  height: 80px;
+  background: ;
+  margin: 10px;
+  background-image: url('./res/mylogo.svg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cover-img {
+  height: 70vh;
+  width: 100%;
+  /*background-image: url('/storage/emulated/0/Android/media/com.whatsapp.w4b/WhatsApp Business/Media/WhatsApp Business Images/IMG-20260611-WA0046.jpg');*/
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.left-side-cover {
+  width: 100%;
+  height: 100%;
+  padding: 50% 10% 10% 10%;
+  /*background: rgba(255,255,255,0.08);*/
+  background: rgba(0, 0, 0, 0.15);
+  /*backdrop-filter: blur(3px);
+  /*background: linear-gradient(135deg, blueviolet, purple);
+  clip-path: inset(5% 5% round 20px);*/
+}
+
+.left-side-cover h1 {
+  color: cyan;
+}
+
+.announcement-container {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  display: grid;
+  gap: 25px;
+  backdrop-filter: blur(10px);
+}
+
+    .card {
+      background: rgba(0, 0, 0, 1.75);
+      border: 1px solid rgba(255,255,255,0.1);
+      padding: 25px;
+      border-radius: 25px;
+      backdrop-filter: blur(10px);
+      transition: 0.3s;
+      margin: 10px;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+    }
+
+    .card h4 {
+      margin-bottom: 15px;
+      font-size: 24px;
+    }
+
+    .date {
+      display: inline-block;
+      margin-bottom: 15px;
+      font-size: 13px;
+      color: cyan;
+    }
+
+    .card p {
+      color: #ddd;
+      line-height: 1.7;
+    }
+
+.-image- {
+  width: 100%;
+  max-height: 70vh;
+  border-radius: 10px;
+  object-position: 60%;
+  object-fit: cover;
+}
+
+figcaption {
+  color: grey;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 0.6rem;
+  text-align: center;
+  padding: 10px;
+}
