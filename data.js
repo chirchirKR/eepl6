@@ -1,11 +1,11 @@
 let content = [
 {
-    "date": new Date(2026,6,28),
+    "date": new Date(2026,6,29),
     "title": "What's up concerning tommorrow",
-    "contains": "Tommorrow (<i>29 June 2026</i>) the normal program will change. We shall be having a class on <b>Bell and Alarm Installation</b> topic on maintainance. It will start at exactly 9:30AM.",
+    "contains": "Tommorrow (<i>30 June 2026</i>) we shall be having assessment one both oral an practical on <b>STANDALONE PV SYSTEM</b>. It will start at exactly 9:30AM. Remember to attend with the appropriate PPE'S",
     "figcaption": "",
     "image": "0",
-    "link": "announcement"
+    "link": "update"
 }
 ,
 {
